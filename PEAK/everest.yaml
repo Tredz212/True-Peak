@@ -1,0 +1,211 @@
+- Name: 1CustomModMadeByMe
+  Version: 0.0.1
+  Dependencies:
+    - Name: AdventureHelper
+      Version: 1.6.0
+    - Name: AdventureHelper
+      Version: 1.6.0
+    - Name: AdventureHelper
+      Version: 1.6.0
+    - Name: AdventureHelper
+      Version: 1.6.0
+    - Name: AdventureHelper
+      Version: 1.6.0
+    - Name: AdventureHelper
+      Version: 1.6.0
+    - Name: AdventureHelper
+      Version: 1.6.0
+    - Name: AdventureHelper
+      Version: 1.6.0
+    - Name: Anonhelper
+      Version: 1.1.1
+    - Name: Anonhelper
+      Version: 1.1.1
+    - Name: Anonhelper
+      Version: 1.1.1
+    - Name: Anonhelper
+      Version: 1.1.1
+    - Name: Anonhelper
+      Version: 1.1.1
+    - Name: BGswitch
+      Version: 1.2.2
+    - Name: BGswitch
+      Version: 1.2.2
+    - Name: BGswitch
+      Version: 1.2.2
+    - Name: BGswitch
+      Version: 1.2.2
+    - Name: BGswitch
+      Version: 1.2.2
+    - Name: BGswitch
+      Version: 1.2.2
+    - Name: BGswitch
+      Version: 1.2.2
+    - Name: BGswitch
+      Version: 1.2.2
+    - Name: Batteries
+      Version: 1.1.4
+    - Name: Batteries
+      Version: 1.1.4
+    - Name: Batteries
+      Version: 1.1.4
+    - Name: Batteries
+      Version: 1.1.4
+    - Name: Batteries
+      Version: 1.1.4
+    - Name: Batteries
+      Version: 1.1.4
+    - Name: Batteries
+      Version: 1.1.4
+    - Name: Batteries
+      Version: 1.1.4
+    - Name: Batteries
+      Version: 1.1.4
+    - Name: Batteries
+      Version: 1.1.4
+    - Name: BounceHelper
+      Version: 1.14.0
+    - Name: BrokemiaHelper
+      Version: 1.8.5
+    - Name: BrokemiaHelper
+      Version: 1.8.5
+    - Name: CanyonHelper
+      Version: 1.1.6
+    - Name: CavernHelper
+      Version: 1.3.7
+    - Name: CelesteNet.Client
+      Version: 2.4.2
+    - Name: CherryHelper
+      Version: 1.8.2
+    - Name: CollabUtils2
+      Version: 1.13.4
+    - Name: ColoredLights
+      Version: 1.2.0
+    - Name: CommunalHelper
+      Version: 1.25.3
+    - Name: ContortHelper
+      Version: 1.5.5
+    - Name: CrystallineHelper
+      Version: 1.17.2
+    - Name: DJMapHelper
+      Version: 1.13.4
+    - Name: EeveeHelper
+      Version: 1.12.5
+    - Name: EmHelper
+      Version: 1.3.0
+    - Name: Everest
+      Version: 1.6397.0
+    - Name: ExtendedVariantMode
+      Version: 0.50.3
+    - Name: FactoryHelper
+      Version: 1.4.1
+    - Name: FancyTileEntities
+      Version: 1.6.2
+    - Name: FemtoHelper
+      Version: 1.15.19
+    - Name: FlaglinesAndSuch
+      Version: 1.6.71
+    - Name: FrostHelper
+      Version: 1.79.0
+    - Name: FurryHelper
+      Version: 1.0.6
+    - Name: GravityHelper
+      Version: 1.2.28
+    - Name: HonlyHelper
+      Version: 1.7.5
+    - Name: IsaGrabBag
+      Version: 1.7.3
+    - Name: JackalHelper
+      Version: 1.7.6
+    - Name: JungleHelper
+      Version: 1.4.10
+    - Name: LuaCutscenes
+      Version: 0.2.13
+    - Name: LunaticHelper
+      Version: 1.1.1
+    - Name: MaxHelpingHand
+      Version: 1.40.6
+    - Name: MoreDasheline
+      Version: 1.7.1
+    - Name: OutbackHelper
+      Version: 1.7.3
+    - Name: PandorasBox
+      Version: 1.0.49
+    - Name: PandorasBox
+      Version: 1.0.49
+    - Name: SafeRespawnCrumble
+      Version: 1.2.1
+    - Name: Sardine7
+      Version: 1.2.0
+    - Name: ShroomHelper
+      Version: 1.2.10
+    - Name: SorbetHelper
+      Version: 1.9.2
+    - Name: SpirialisHelper
+      Version: 1.0.8
+    - Name: StrawberryJam2021
+      Version: 1.0.12
+    - Name: StrawberryJam2021Assets
+      Version: 1.0.1
+    - Name: StrawberryJam2021Assets
+      Version: 1.0.1
+    - Name: StrawberryJam2021Assets
+      Version: 1.0.1
+    - Name: StrawberryJam2021AudioA
+      Version: 1.0.4
+    - Name: StrawberryJam2021AudioA
+      Version: 1.0.4
+    - Name: StrawberryJam2021AudioB
+      Version: 1.0.0
+    - Name: StrawberryJam2021AudioB
+      Version: 1.0.0
+    - Name: StrawberryJam2021AudioC
+      Version: 1.0.1
+    - Name: StrawberryJam2021AudioC
+      Version: 1.0.1
+    - Name: TwigHelper
+      Version: 1.6.0
+    - Name: TwigHelper
+      Version: 1.6.0
+    - Name: VivHelper
+      Version: 1.14.10
+    - Name: VivHelper
+      Version: 1.14.10
+    - Name: VivHelper
+      Version: 1.14.10
+    - Name: VortexHelper
+      Version: 1.2.19
+    - Name: VortexHelper
+      Version: 1.2.19
+    - Name: VortexHelper
+      Version: 1.2.19
+    - Name: XaphanHelper
+      Version: 1.0.79
+    - Name: XaphanHelper
+      Version: 1.0.79
+    - Name: XaphanHelper
+      Version: 1.0.79
+    - Name: XaphanHelper
+      Version: 1.0.79
+    - Name: YetAnotherHelper
+      Version: 1.2.5
+    - Name: YetAnotherHelper
+      Version: 1.2.5
+    - Name: YetAnotherHelper
+      Version: 1.2.5
+    - Name: memorialHelper
+      Version: 1.0.4
+    - Name: memorialHelper
+      Version: 1.0.4
+    - Name: memorialHelper
+      Version: 1.0.4
+    - Name: memorialHelper
+      Version: 1.0.4
+    - Name: memorialHelper
+      Version: 1.0.4
+    - Name: memorialHelper
+      Version: 1.0.4
+    - Name: memorialHelper
+      Version: 1.0.4
+    - Name: memorialHelper
+      Version: 1.0.4
